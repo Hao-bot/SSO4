@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SSO4": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7258",
+      "launchBrowser": false
+    }
+  }
+}

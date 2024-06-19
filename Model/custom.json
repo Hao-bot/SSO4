@@ -1,0 +1,21 @@
+{
+
+    "daily":
+    {
+        "dayPeek":0,
+        "dayNext":0,
+        "dailyGot":[
+            {"dayCount":0, "isGetToday": false}
+        ],
+        "recyclingCount":0
+    },
+   "isCrackToNext":false,
+    "collectionDaily":
+    [
+        {"dayCount": 0, "collection":[{"id": "", "amount":1}]}
+    ]
+ 
+}
+
+
+
