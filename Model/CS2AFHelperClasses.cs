@@ -13,7 +13,7 @@ namespace PlayFab.Samples
         public static readonly int DayCount = 7;
         public static readonly string DataJsonPath ="Model/Data.json";
         public static readonly string Title =   "BA398"; // Set your actual Title ID
-        public static readonly string  DevKey =  "5ZG8U4KSNFC8Q6AI8ZFG5BJCWTOSDYMKZOADS5PZ4T6NGB54TT";
+        public static readonly string  DevKey =  "5ZG8U4KSNFC8Q6AI8ZFG5BJCWTOSDYMKZOADS5PZT";
         public static readonly string BoneGetId = "ddd7919a-ac88-40e6-806f-4ebdbf68fdbc";
         public static readonly string TokenId = "b2b0238c-983b-4fac-b394-9e323b1f217c";
         public static readonly string BundleContentV2Id = "4eac38d0-a45e-4c2b-969e-eac5242fdc06";
